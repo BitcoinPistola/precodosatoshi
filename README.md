@@ -4,7 +4,7 @@ Twitter bot that tweets the price of 1 satoshi in different fiat currencies peri
 
 1 satoshi = 0.00000001 BTC
 
-Current fiats supported:
+Current fiats:
 - Brazilian Real (BRL)
 - United States Dollar (USD)
 - Euro (EUR)
